@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Sample1 : MonoBehaviour
 {
+    private Transform transform;
+
     // Start is called before the first frame update
     void Start()
     {
